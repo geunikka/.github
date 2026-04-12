@@ -8,6 +8,13 @@
 우리 팀은 모두 공감에 강한 F 성향이라, 누군가의 이야기에 자연스럽게 "그니까"라고 반응합니다.  
 팀명 **그니까**에는 사람을 먼저 이해하고 공감에서 출발해 해결책을 만든다는 우리의 태도를 담았습니다.
 
+### 팀 구성
+| 캐릭터 | 이름 | 역할 |
+| --- | --- | --- |
+| <img src="./assets/character/developer.png" alt="안문주 캐릭터" width="96" /> | 안문주 | 개발 |
+| <img src="./assets/character/planner.png" alt="윤지원 캐릭터" width="96" /> | 윤지원 | 기획 |
+| <img src="./assets/character/designer.png" alt="김승은 캐릭터" width="96" /> | 김승은 | 디자인 |
+
 ## 프로젝트 REMINDY
 
 ### 한 줄 소개
@@ -33,9 +40,3 @@ REMINDY는 이런 사소하지만 중요한 순간을 놓치지 않도록, 기�
 | 상황 | 바쁜 일상에서 생각은 많지만 정리는 어려움 |
 | 사용자군 | 학생, 직장인, ADHD 성향 사용자 |
 
-### 팀 구성
-| 캐릭터 | 이름 | 역할 |
-| --- | --- | --- |
-| <img src="./assets/character/developer.png" alt="안문주 캐릭터" width="96" /> | 안문주 | 개발 |
-| <img src="./assets/character/planner.png" alt="윤지원 캐릭터" width="96" /> | 윤지원 | 기획 |
-| <img src="./assets/character/designer.png" alt="김승은 캐릭터" width="96" /> | 김승은 | 디자인 |
