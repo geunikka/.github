@@ -18,7 +18,7 @@
 | <img src="./assets/character/developer.png" alt="안문주 캐릭터" width="96" /> | 안문주 | 개발 |
 | <img src="./assets/character/planner.png" alt="윤지원 캐릭터" width="96" /> | 윤지원 | 기획 |
 | <img src="./assets/character/designer.png" alt="김승은 캐릭터" width="96" /> | 김승은 | 디자인 |
-| <img src="./assets/character/system-engineer.png" alt="시스템 엔지니어 캐릭터" width="96" /> | 시스템 엔지니어 | 시스템 엔지니어 |
+| <img src="./assets/character/system-engineer.png" alt="권지연 캐릭터" width="96" /> | 권지연 | 시스템 엔지니어 |
 
 ## 프로젝트 REMINDY
 
